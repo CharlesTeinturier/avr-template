@@ -12,7 +12,7 @@ installed from the Ubuntu repositories:
 
 ## Building
 
-1. Clone the [avr-template](https://github.com/uctools/avr-templates) repository
+1. Clone the [avr-template](https://github.com/teintuc/avr-templates) repository
    (or fork it and clone your own repository).
 
         git clone git@github.com:uctools/avr-template
