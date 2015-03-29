@@ -1,5 +1,5 @@
 #include <avr/io.h>
-#include <util/delay.h>
+//#include <util/delay.h>
 
 int main (void)
 {
@@ -12,7 +12,7 @@ int main (void)
         PORTB ^= 0xFF;
 
         for (i = 0; i < 50; i++) {
-            _delay_loop_2(30000);
+            //_delay_loop_2(30000);
         }
     }
 
